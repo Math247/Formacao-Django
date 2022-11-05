@@ -12,9 +12,9 @@ Formação oferecido pela Alura buscando melhorar em Django
 
 - `Curso 1`: HTTP: Entendendo a web por baixo dos panos
 
-## 📁 Acesso ao Bootcamp
+## 📁 Acesso à Formação
 
-**Você poderá acessar o Bootcamp pelo link a seguir: https://cursos.alura.com.br/formacao-django**
+**Você poderá acessar a Formação pelo link a seguir: https://cursos.alura.com.br/formacao-django**
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
